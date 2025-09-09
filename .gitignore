@@ -3,12 +3,12 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Aa]ssets/AllIn1VfxToolkit/
-/[Aa]ssets/DinoFracture/
-/[Aa]ssets/LowlyPoly/
-/[Aa]ssets/polyperfect/
-/[Aa]ssets/Scenes/
-/[Aa]ssets/SCI-FI UI Pack Pro/
+/[Aa]ssets/[Aa]llIn1VfxToolkit/
+/[Aa]ssets/[Dd]inoFracture/
+/[Aa]ssets/[ll]owlyPoly/
+/[Aa]ssets/[Pp]olyperfect/
+/[Aa]ssets/[Ss]cenes/
+/[Aa]ssets/[Ss]CI-FI UI Pack Pro/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
